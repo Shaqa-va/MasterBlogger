@@ -1,0 +1,10 @@
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\bin\Debug\netcoreapp3.1\MB.Domain.deps.json
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\bin\Debug\netcoreapp3.1\MB.Domain.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\obj\Debug\netcoreapp3.1\MB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\obj\Debug\netcoreapp3.1\MB.Domain.AssemblyInfoInputs.cache
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\obj\Debug\netcoreapp3.1\MB.Domain.AssemblyInfo.cs
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\obj\Debug\netcoreapp3.1\MB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\obj\Debug\netcoreapp3.1\MB.Domain.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\obj\Debug\netcoreapp3.1\MB.Domain.pdb
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\obj\Debug\netcoreapp3.1\MB.Domain.csprojAssemblyReference.cache

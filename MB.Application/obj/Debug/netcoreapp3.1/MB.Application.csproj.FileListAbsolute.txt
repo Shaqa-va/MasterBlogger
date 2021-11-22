@@ -1,0 +1,15 @@
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.deps.json
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.pdb
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csprojAssemblyReference.cache
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfoInputs.cache
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfo.cs
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.CoreCompileInputs.cache
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.CopyComplete
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.pdb

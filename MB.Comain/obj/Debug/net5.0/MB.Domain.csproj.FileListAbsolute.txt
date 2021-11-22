@@ -1,0 +1,12 @@
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\bin\Debug\net5.0\MB.Domain.deps.json
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\bin\Debug\net5.0\MB.Domain.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\bin\Debug\net5.0\ref\MB.Domain.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\bin\Debug\net5.0\MB.Domain.pdb
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\obj\Debug\net5.0\MB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\obj\Debug\net5.0\MB.Domain.AssemblyInfoInputs.cache
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\obj\Debug\net5.0\MB.Domain.AssemblyInfo.cs
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\obj\Debug\net5.0\MB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\obj\Debug\net5.0\MB.Domain.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\obj\Debug\net5.0\ref\MB.Domain.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\obj\Debug\net5.0\MB.Domain.pdb
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\obj\Debug\net5.0\MB.Domain.csprojAssemblyReference.cache
