@@ -14,6 +14,11 @@ namespace MB.Domain.ArticleCategoryAgg
 
 
         public ICollection<Article> Articles { get; set; }
+
+        protected ArticleCategory()
+        {
+
+        }
         public void GuardAgainstEmptyTitle(string title)
         {
             if (string.IsNullOrWhiteSpace(title))
