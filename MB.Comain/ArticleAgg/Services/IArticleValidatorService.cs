@@ -8,7 +8,7 @@ namespace MB.Domain.ArticleAgg.Services
 {
    public  interface IArticleValidatorService
     {
-        void CheckTahtThisRecordAlreadyExists(string title)
+        void CheckTahtThisRecordAlreadyExists(string title);
        
     }
 }
