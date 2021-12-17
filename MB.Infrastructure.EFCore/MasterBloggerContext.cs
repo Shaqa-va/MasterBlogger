@@ -1,5 +1,6 @@
 ﻿using MB.Domain.ArticleAgg;
 using MB.Domain.ArticleCategoryAgg;
+using MB.Domain.CommentAgg;
 using MB.Infrastructure.EFCore.Mapping;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -13,6 +14,9 @@ namespace MB.Infrastructure.EFCore
 
         public DbSet<ArticleCategory> ArticleCategories { get; set; }
         public DbSet<Article> Articles { get; set; }
+        public DbSet<Comment> Comments { get; set; }
+
+
         public MasterBloggerContext(DbContextOptions<MasterBloggerContext> options):base(options)
         {
 
@@ -20,8 +24,11 @@ namespace MB.Infrastructure.EFCore
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.ApplyConfiguration(new ArticleCategoryMapping());
-            modelBuilder.ApplyConfiguration(new ArticleMapping());
+            var assembly = typeof(ArticleMapping).Assembly;
+            modelBuilder.ApplyConfigurationsFromAssembly(assembly);
+            //modelBuilder.ApplyConfiguration(new ArticleCategoryMapping());
+            //modelBuilder.ApplyConfiguration(new CommentMapping());
+            //modelBuilder.ApplyConfiguration(new ArticleMapping());
             base.OnModelCreating(modelBuilder);
         }
     }

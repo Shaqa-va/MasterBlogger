@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MB.Domain.ArticleAgg;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,8 @@ namespace MB.Domain.CommentAgg
         public int Status { get; set; } //New =0, Confirmed= 1, Canceled= 2
         public DateTime CreationDate { get; private set; }
         public long ArticleId { get; private set; }
+        public Article Article { get; private set; }
+
         protected Comment()
         {
         }
