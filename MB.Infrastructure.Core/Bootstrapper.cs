@@ -9,6 +9,8 @@ using MB.Application.Contracts.Article;
 using MB.Domain.ArticleAgg;
 using MB.Domain.ArticleCategoryAgg.Services;
 using MB.Infrastructure.Query;
+using MB.Application.Contracts.Comment;
+using MB.Domain.CommentAgg;
 
 namespace MB.Infrastructure.Core
 {
@@ -23,6 +25,10 @@ namespace MB.Infrastructure.Core
             services.AddTransient<IArticleApplication, ArticleApplication>();
             services.AddTransient<IArticleRepository, ArticleRepository>();
             services.AddTransient<IArticleCategoryValidatorService, ArticleCategoryValidatorService>();
+
+
+            services.AddTransient<ICommentApplication, CommentApplication>();
+            services.AddTransient<ICommentRepository, CommentRepository>();
 
             services.AddTransient<IArticleQuery, ArticleQuery>();
             services.AddDbContext<MasterBloggerContext>(options => options.UseSqlServer(connectionString));
