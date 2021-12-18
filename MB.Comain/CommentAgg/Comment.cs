@@ -34,7 +34,13 @@ namespace MB.Domain.CommentAgg
         }
         public void Confirmed ()
         {
+            this.Status = Statuses.Confirmed;
 
+        }
+
+        public void Cancel()
+        {
+            this.Status = Statuses.Canceled;
         }
 
     }
