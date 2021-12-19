@@ -22,8 +22,10 @@ namespace MB.Infrastructure.EFCore.Repositories
         public void CreateAndSave(Comment entity)
         {
             _context.Comments.Add(entity);
-            _context.SaveChanges();
+            Save();
         }
+
+
 
         public List<CommentViewModel> GetList()
         {
@@ -37,6 +39,17 @@ namespace MB.Infrastructure.EFCore.Repositories
                 CreationDate=x.CreationDate.ToString(CultureInfo.InvariantCulture),
                 Article=x.Article.Title
             }).ToList();
+        }
+
+
+        public Comment Get(long id)
+        {
+            return _context.Comments.FirstOrDefault(x => x.Id == id);
+        }
+
+        public void Save()
+        {
+            _context.SaveChanges();
         }
     }
 }

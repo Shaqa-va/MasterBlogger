@@ -32,7 +32,7 @@ namespace MB.Domain.CommentAgg
             Status = Statuses.New;
           //  Status = Statuses.New;
         }
-        public void Confirmed ()
+        public void Confirm ()
         {
             this.Status = Statuses.Confirmed;
 
