@@ -4,8 +4,12 @@ C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debu
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Infrastructure.EFCore.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\ref\MB.Infrastructure.EFCore.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Infrastructure.EFCore.pdb
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Domain.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\_01_Framework.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Domain.pdb
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.pdb
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\_01_Framework.pdb
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.csprojAssemblyReference.cache
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.AssemblyInfoInputs.cache
@@ -16,7 +20,3 @@ C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debu
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\ref\MB.Infrastructure.EFCore.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.pdb
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.genruntimeconfig.cache
-C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.dll
-C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.pdb
-C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\_01_Framework.dll
-C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\_01_Framework.pdb

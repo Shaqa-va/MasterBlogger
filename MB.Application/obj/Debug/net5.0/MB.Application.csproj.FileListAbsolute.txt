@@ -4,8 +4,10 @@ C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\net5.0\r
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.pdb
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.Contracts.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Domain.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\net5.0\_01_Framework.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.Contracts.pdb
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Domain.pdb
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\net5.0\_01_Framework.pdb
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.csprojAssemblyReference.cache
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.AssemblyInfoInputs.cache
@@ -15,5 +17,3 @@ C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\net5.0\M
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\net5.0\ref\MB.Application.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.pdb
-C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\net5.0\_01_Framework.dll
-C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\net5.0\_01_Framework.pdb

@@ -6,10 +6,14 @@ C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Application.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Domain.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.EFCore.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\_01_Framework.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Application.Contracts.pdb
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Application.pdb
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Domain.pdb
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.EFCore.pdb
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.pdb
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\_01_Framework.pdb
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.csprojAssemblyReference.cache
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.AssemblyInfoInputs.cache
@@ -19,7 +23,3 @@ C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\ref\MB.Infrastructure.Core.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.pdb
-C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.dll
-C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.pdb
-C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\_01_Framework.dll
-C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\_01_Framework.pdb

@@ -1,7 +1,3 @@
-C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net5.0\MB.Infrastructure.Query.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net5.0\MB.Infrastructure.Query.AssemblyInfoInputs.cache
-C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net5.0\MB.Infrastructure.Query.AssemblyInfo.cs
-C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net5.0\MB.Infrastructure.Query.csproj.CoreCompileInputs.cache
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\bin\Debug\net5.0\MB.Infrastructure.Query.deps.json
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\bin\Debug\net5.0\MB.Infrastructure.Query.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\bin\Debug\net5.0\ref\MB.Infrastructure.Query.dll
@@ -9,13 +5,17 @@ C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\bin\Debug
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\bin\Debug\net5.0\MB.Application.Contracts.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\bin\Debug\net5.0\MB.Domain.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\bin\Debug\net5.0\MB.Infrastructure.EFCore.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\bin\Debug\net5.0\_01_Framework.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\bin\Debug\net5.0\MB.Infrastructure.EFCore.pdb
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\bin\Debug\net5.0\MB.Application.Contracts.pdb
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\bin\Debug\net5.0\MB.Domain.pdb
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\bin\Debug\net5.0\_01_Framework.pdb
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net5.0\MB.Infrastructure.Query.csprojAssemblyReference.cache
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net5.0\MB.Infrastructure.Query.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net5.0\MB.Infrastructure.Query.AssemblyInfoInputs.cache
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net5.0\MB.Infrastructure.Query.AssemblyInfo.cs
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net5.0\MB.Infrastructure.Query.csproj.CoreCompileInputs.cache
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net5.0\MB.Infrastructure.Query.csproj.CopyComplete
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net5.0\MB.Infrastructure.Query.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net5.0\ref\MB.Infrastructure.Query.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net5.0\MB.Infrastructure.Query.pdb
-C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\bin\Debug\net5.0\_01_Framework.dll
-C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.Query\bin\Debug\net5.0\_01_Framework.pdb

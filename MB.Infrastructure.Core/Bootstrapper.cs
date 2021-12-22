@@ -11,6 +11,7 @@ using MB.Domain.ArticleCategoryAgg.Services;
 using MB.Infrastructure.Query;
 using MB.Application.Contracts.Comment;
 using MB.Domain.CommentAgg;
+using _01_Framework.Infrastructure;
 
 namespace MB.Infrastructure.Core
 {
@@ -31,6 +32,7 @@ namespace MB.Infrastructure.Core
             services.AddTransient<ICommentRepository, CommentRepository>();
 
             services.AddTransient<IArticleQuery, ArticleQuery>();
+            services.AddTransient<IUnitOfWork, UnitOfWork>();
             services.AddDbContext<MasterBloggerContext>(options => options.UseSqlServer(connectionString));
         }
     }
