@@ -92,3 +92,5 @@ C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Presentation.MVCCore\bin\Debug
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Infrastructure.Query.pdb
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\ArticleDetails.cshtml.g.cs
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\CommentManagement\List.cshtml.g.cs
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\_01_Framework.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\_01_Framework.pdb

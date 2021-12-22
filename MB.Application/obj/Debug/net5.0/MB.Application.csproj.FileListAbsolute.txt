@@ -15,3 +15,5 @@ C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\net5.0\M
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\net5.0\ref\MB.Application.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.pdb
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\net5.0\_01_Framework.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application\bin\Debug\net5.0\_01_Framework.pdb

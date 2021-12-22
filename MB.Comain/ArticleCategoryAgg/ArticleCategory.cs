@@ -1,17 +1,16 @@
-﻿using MB.Domain.ArticleAgg;
+﻿using _01_Framework.Domain;
+using MB.Domain.ArticleAgg;
 using MB.Domain.ArticleCategoryAgg.Services;
 using System;
 using System.Collections.Generic;
 
 namespace MB.Domain.ArticleCategoryAgg
 {
-    public class ArticleCategory
+    public class ArticleCategory:DomainBase<long>
     {
-        public long Id { get; set; }
+      
         public string Title { get; private set; }
         public bool IsDeleted { get; private set; }
-        public DateTime CreationDate { get; private set; }
-
 
         public ICollection<Article> Articles { get; set; }
 
@@ -32,7 +31,6 @@ namespace MB.Domain.ArticleCategoryAgg
             validatorService.CheckThatThisRecordAlreadyExists(title);
             Title = title;
             IsDeleted = false;
-            CreationDate = DateTime.Now;
             Articles = new List<Article>();
         }
 

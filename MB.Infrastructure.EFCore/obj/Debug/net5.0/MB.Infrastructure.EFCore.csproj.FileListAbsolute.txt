@@ -18,3 +18,5 @@ C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debu
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.genruntimeconfig.cache
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.pdb
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\_01_Framework.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\_01_Framework.pdb

@@ -1,4 +1,5 @@
-﻿using MB.Application.Contracts.Comment;
+﻿using _01_Framework.Infrastructure;
+using MB.Application.Contracts.Comment;
 using MB.Domain.CommentAgg;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -10,46 +11,29 @@ using System.Threading.Tasks;
 
 namespace MB.Infrastructure.EFCore.Repositories
 {
-    public class CommentRepository:ICommentRepository
+    public class CommentRepository : BaseRepository<long, Comment>, ICommentRepository
     {
         private readonly MasterBloggerContext _context;
-        public CommentRepository(MasterBloggerContext context)
-        { 
-            _context = context;
-
-        }
-
-        public void CreateAndSave(Comment entity)
+        public CommentRepository(MasterBloggerContext context):base(context)
         {
-            _context.Comments.Add(entity);
-            Save();
+            _context = context;
         }
-
-
 
         public List<CommentViewModel> GetList()
         {
             return _context.Comments.Include(x => x.Article).Select(x => new CommentViewModel
             {
-                Id=x.Id,
-                Name=x.Name,
-                Email=x.Email,
-                Message=x.Message,
-                Status=x.Status,
-                CreationDate=x.CreationDate.ToString(CultureInfo.InvariantCulture),
-                Article=x.Article.Title
+                Id = x.Id,
+                Name = x.Name,
+                Email = x.Email,
+                Message = x.Message,
+                Status = x.Status,
+                CreationDate = x.CreationDate.ToString(CultureInfo.InvariantCulture),
+                Article = x.Article.Title
             }).ToList();
         }
 
 
-        public Comment Get(long id)
-        {
-            return _context.Comments.FirstOrDefault(x => x.Id == id);
-        }
-
-        public void Save()
-        {
-            _context.SaveChanges();
-        }
+   
     }
 }

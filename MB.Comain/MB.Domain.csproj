@@ -6,6 +6,7 @@
 
 	<ItemGroup>
 	  <ProjectReference Include="..\MB.Application.Contracts\MB.Application.Contracts.csproj" />
+	  <ProjectReference Include="..\_01_Framework\_01_Framework.csproj" />
 	</ItemGroup>
 
 </Project>

@@ -5,6 +5,7 @@ using MB.Domain.ArticleCategoryAgg.Services;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
+using System.Linq;
 using System.Text;
 
 namespace MB.Application
@@ -52,28 +53,28 @@ namespace MB.Application
 
             }
 
-            return result;
+            return result.OrderByDescending(x=>x.Id).ToList();
         }
 
         public void Activate(long id)
         {
             var articleCategory = _articleCategoryRepository.Get(id);
             articleCategory.Activate();
-            _articleCategoryRepository.Save();
+            //_articleCategoryRepository.Save();
         }
 
         public void Remove(long id)
         {
             var articleCategory = _articleCategoryRepository.Get(id);
             articleCategory.Remove();
-            _articleCategoryRepository.Save();
+            //_articleCategoryRepository.Save();
         }
 
         public void Rename(RenameArticleCategory command)
         {
             var articleCatogory = _articleCategoryRepository.Get(command.Id);
             articleCatogory.Rename(command.Title);
-            _articleCategoryRepository.Save();
+            //_articleCategoryRepository.Save();
         }
     }
 }

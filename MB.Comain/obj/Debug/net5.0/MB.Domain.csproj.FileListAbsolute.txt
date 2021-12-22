@@ -13,3 +13,5 @@ C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\obj\Debug\net5.0\MB.Dom
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\bin\Debug\net5.0\MB.Application.Contracts.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\bin\Debug\net5.0\MB.Application.Contracts.pdb
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\obj\Debug\net5.0\MB.Domain.csproj.CopyComplete
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\bin\Debug\net5.0\_01_Framework.dll
+C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Comain\bin\Debug\net5.0\_01_Framework.pdb

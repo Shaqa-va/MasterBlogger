@@ -9,4 +9,3 @@ C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debu
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debug\net5.0\ref\MB.Application.Contracts.dll
 C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.pdb
-C:\Users\Shaghayegh\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.csprojAssemblyReference.cache

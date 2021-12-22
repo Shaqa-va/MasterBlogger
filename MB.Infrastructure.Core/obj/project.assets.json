@@ -1510,7 +1510,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "MB.Application.Contracts": "1.0.0"
+          "MB.Application.Contracts": "1.0.0",
+          "_01_Framework": "1.0.0"
         },
         "compile": {
           "bin/placeholder/MB.Domain.dll": {}
@@ -1545,6 +1546,19 @@
         },
         "runtime": {
           "bin/placeholder/MB.Infrastructure.Query.dll": {}
+        }
+      },
+      "_01_Framework/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.1"
+        },
+        "compile": {
+          "bin/placeholder/_01_Framework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/_01_Framework.dll": {}
         }
       }
     }
@@ -5783,6 +5797,11 @@
       "type": "project",
       "path": "../MB.Infrastructure.Query/MB.Infrastructure.Query.csproj",
       "msbuildProject": "../MB.Infrastructure.Query/MB.Infrastructure.Query.csproj"
+    },
+    "_01_Framework/1.0.0": {
+      "type": "project",
+      "path": "../_01_Framework/_01_Framework.csproj",
+      "msbuildProject": "../_01_Framework/_01_Framework.csproj"
     }
   },
   "projectFileDependencyGroups": {
